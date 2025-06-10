@@ -1,0 +1,11 @@
+OPS445 Lab Report - System Information for running ./CheckLab2.py
+=================================================================
+    User login name: aziz
+    Git Email: akelifa-haji-imam@myseneca.ca
+    Linux system name: aziz-OPS445
+    Python executable: /usr/bin/python3
+    Python version:  3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]
+    OS Platform: linux
+    Working Directory: /home/aziz/ops445/lab2
+    Start at: Tue Jun 10 00:20:22 2025
+=================================================================
